@@ -1,0 +1,4 @@
+[2026-11-13 02:09:15] ValueError:
+could not convert string to float: 'abc'
+Message: Ошибка при выполнении конвертации
+
